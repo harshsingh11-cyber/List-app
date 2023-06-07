@@ -1,0 +1,50 @@
+.app {
+  margin: 0%;
+  padding: 0%;
+  background-color: aquamarine;
+}
+
+.list_all {
+  margin: 20px;
+  background-color: aquamarine;
+}
+
+.list_all h2 {
+  font-size: 30px;
+  padding: 10px;
+  color: brown;
+}
+
+.list_li {
+
+  margin: 15px 5px;
+  padding: 15px 10px;
+  background-color: rgb(119, 187, 187);
+  border-radius: 20px;
+}
+
+.list_li h3 {
+  font-size: 25px;
+  color: rgb(14, 14, 34);
+}
+
+.list_li p {
+  font-size: 17px;
+  margin-bottom: 25px;
+}
+
+.btn{
+  width: 150px;
+  height: 40px;
+  border-radius: 25px;
+  border: none;
+  font-size: 17px;
+  font-weight: 600;
+  background-color: rgb(231, 214, 192);
+}
+
+.summary{
+  width: 100%;
+  height: 100vh;
+  padding: 20px 20px;
+}
